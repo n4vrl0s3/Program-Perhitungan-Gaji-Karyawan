@@ -8,13 +8,13 @@
 </div>
 
 # Program Perhitungan Gaji Karyawan
+
 Repositori ini bertujuan untuk memberikan titik awal yang komprehensif untuk memahami dan mengimplementasikan sistem perhitungan gaji karyawan. Program ini diimplementasikan dalam bahasa Python dan cocok sebagai pengenalan manajemen data karyawan dan penghitungan gaji, yang sesuai untuk pemrogram pemula dan menengah. Dalam repositori ini, Anda akan menemukan contoh bagaimana mencatat data karyawan, menghitung gaji berdasarkan jam kerja, tunjangan, dan potongan, serta menghasilkan laporan gaji.
 
 <hr><br>
 
 ## Purpose of This Repository
 
-### Primitive List
 Repositori ini bertujuan untuk memberikan panduan lengkap dalam memahami dan mengimplementasikan sistem perhitungan gaji karyawan. Program ini diimplementasikan dalam bahasa Python dan dirancang untuk membantu perusahaan dalam menghitung gaji karyawan secara akurat dan efisien. Dalam repositori ini, Anda akan menemukan contoh cara mencatat data karyawan, menghitung gaji berdasarkan jam kerja, tunjangan, dan potongan, serta menghasilkan laporan gaji bulanan. Program ini sangat cocok untuk pemrogram pemula dan menengah yang ingin mempelajari aplikasi praktis dalam manajemen sumber daya manusia.
 
 <hr><br>
