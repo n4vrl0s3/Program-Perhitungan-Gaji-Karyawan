@@ -19,6 +19,28 @@ This repository aims to provide a complete guide to understanding and implementi
 
 <hr><br>
 
+## Demo
+
+Here is a demonstration of the main function from the program:
+
+```python
+def calculate_salary(hours_worked, hourly_rate, allowances, deductions):
+    gross_salary = hours_worked * hourly_rate
+    net_salary = gross_salary + allowances - deductions
+    return net_salary
+
+# Example usage
+hours_worked = 160
+hourly_rate = 20
+allowances = 300
+deductions = 50
+
+net_salary = calculate_salary(hours_worked, hourly_rate, allowances, deductions)
+print(f"Net Salary: ${net_salary}")
+```
+
+<hr><br>
+
 ## Features
 
 - Record employee data
@@ -36,7 +58,7 @@ This repository aims to provide a complete guide to understanding and implementi
 
 <hr><br>
 
-## Steps to Run
+## Project Setup
 
 1. Clone this repository:
    ```bash
@@ -46,7 +68,16 @@ This repository aims to provide a complete guide to understanding and implementi
    ```bash
    cd Program-Perhitungan-Gaji-Karyawan
    ```
-3. Run the program:
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+<hr><br>
+
+## Steps to Run
+
+1. Run the program:
    ```bash
    python program_v2.py
    python program.py
