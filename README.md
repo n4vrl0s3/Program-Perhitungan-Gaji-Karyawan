@@ -1,4 +1,4 @@
-# Employee Salary Calculation Program
+# Program Perhitungan Gaji Karyawan
 
 This repository aims to provide a comprehensive starting point for understanding and implementing an employee salary calculation system. This program is implemented in Python and is suitable as an introduction to employee data management and salary calculation, which is appropriate for beginner and intermediate programmers. In this repository, you will find examples of how to record employee data, calculate salaries based on working hours, allowances, and deductions, and generate salary reports.
 
