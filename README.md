@@ -1,12 +1,3 @@
-<div align=center>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=100:FF0000,20:F0F0F0&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
-
-![Jane Doe Banner](https://github.com/user-attachments/assets/6dce4a9a-c124-413d-816b-a0ea878a6cd9)
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20:FF0000,100:F0F0F0&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
-
-</div>
-
 # Employee Salary Calculation Program
 
 This repository aims to provide a comprehensive starting point for understanding and implementing an employee salary calculation system. This program is implemented in Python and is suitable as an introduction to employee data management and salary calculation, which is appropriate for beginner and intermediate programmers. In this repository, you will find examples of how to record employee data, calculate salaries based on working hours, allowances, and deductions, and generate salary reports.
@@ -19,7 +10,7 @@ This repository aims to provide a complete guide to understanding and implementi
 
 <hr><br>
 
-## Demo
+## Demonstration
 
 Here is a demonstration of the main function from the program:
 
@@ -87,12 +78,12 @@ print(f"Net Salary: ${net_salary}")
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache-2.0 License. See the [LICENSE](LICENSE) file for details.
 
 <hr><br>
 
 <div align="center">
-  <a href="https://www.instagram.com/guanshiyin_/">
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:FF0000,20:F0F0F0&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
-  </a>
+   <a href="https://www.instagram.com/guanshiyin_/">
+      <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:393E46,20:F7F7F7&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+   </a>
 </div>
